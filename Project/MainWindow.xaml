@@ -96,6 +96,7 @@
         <ComboBox/>
         <ComboBox/>
         <ComboBox/>
+        <ComboBox/>
       </StackPanel>
     </StackPanel>
   </local:CustomPopup>
