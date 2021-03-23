@@ -24,6 +24,55 @@
     </local:CustomPopup.CustomPopupContent>
     <StackPanel Orientation="Horizontal">
       <Button Click="OpenCustomPopup" Content="Open CustomPopup"/>
+      <StackPanel>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+        <CheckBox/>
+      </StackPanel>
     </StackPanel>
   </local:CustomPopup>
 </Window>
